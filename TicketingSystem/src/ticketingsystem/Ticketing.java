@@ -10,7 +10,7 @@ import javax.swing.tree.DefaultTreeModel;
 
 /**
  *
- * @author omer-
+ * @author tarik-
  */
 public class Ticketing extends javax.swing.JFrame {
 

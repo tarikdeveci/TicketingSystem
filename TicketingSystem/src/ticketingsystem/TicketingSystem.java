@@ -8,7 +8,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author omer-
+ * @author salih-
  */
 public class TicketingSystem {
 

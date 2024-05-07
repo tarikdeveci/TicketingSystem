@@ -6,7 +6,7 @@ package ticketingsystem;
 
 /**
  *
- * @author omer-
+ * @author tarik-
  */
 public class Tree {
 
